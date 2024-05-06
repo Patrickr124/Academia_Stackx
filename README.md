@@ -1,4 +1,4 @@
-# Academia React Site
+# Site Academia Stackx 
 
 Este projeto é um site moderno de academia desenvolvido com React, projetado para oferecer uma experiência de usuário interativa e envolvente. Com um design limpo e uma navegação intuitiva, os usuários podem facilmente explorar os diversos planos e preços disponíveis, bem como se inscrever para começar sua jornada de fitness.
 
