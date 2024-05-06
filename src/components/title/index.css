@@ -1,0 +1,10 @@
+.title{
+    color: steelblue;
+    font-size: 30px;
+    background: transparent;
+    border: 10px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+}

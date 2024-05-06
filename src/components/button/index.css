@@ -1,0 +1,15 @@
+.button{
+    background:steelblue;
+    border:none;
+    border-radius:5px;
+    display: inline-block;
+    cursor: pointer;
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 17px;
+    
+}
+
+.button:hover{
+    background-color: white;
+}
